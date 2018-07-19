@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6E732220-2DAF-4A90-AEB0-2563920F66FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02D32094-C5BB-4806-9664-8BA035661B6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "528B8369-8EDF-4C2F-9C98-125785C9FFE6",
+    "height": 263,
+    "width": 391.2920962199312,
+    "x": -48.66323024054983,
+    "y": -55
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1c77a15c9b0beba8f495e9b5e123e94ffe355650.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "paul-hanaoka-343456-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FB2F907-95CA-421A-A259-BB813DA5DC7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "do_objectID": "0A6593D0-3C52-4A20-82B9-B9DD33B9FE01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "275C91D3-9CB7-4CD7-AABD-4D4DDBB6E9BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8A0A4192-9907-4B8E-82C7-53E9EB2FF058",
+    "height": 16,
+    "width": 49,
+    "x": 902,
+    "y": 5
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "cancel hove copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E5797529-F967-415A-B7BA-B7AFE9705CB4_stringValue",
+      "value": "VIEW ALL"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "611AB00C-EAF5-4793-82EE-64554CD17190",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B3F3528B-7306-4EB8-9E09-B1AE7B8247F5",
+  "verticalSpacing": 0
+}

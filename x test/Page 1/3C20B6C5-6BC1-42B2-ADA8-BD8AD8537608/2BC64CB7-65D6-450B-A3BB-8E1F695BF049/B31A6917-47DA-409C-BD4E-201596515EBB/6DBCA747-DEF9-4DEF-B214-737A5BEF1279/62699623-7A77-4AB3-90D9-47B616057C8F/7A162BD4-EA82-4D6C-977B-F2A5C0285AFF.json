@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": 0,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "7A162BD4-EA82-4D6C-977B-F2A5C0285AFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E1F386C-0680-4DEE-BE82-60A42ED6FEE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "06027CC0-B529-4223-8572-31DED314C090",
+    "height": 243,
+    "width": 304,
+    "x": -10,
+    "y": -22
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/df64e2da557f3b3846843749463452b2adb1b9cf.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "riccardo-annandale-140624-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDD24BDE-038A-4E9F-865F-6C1EE3B4E221",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
